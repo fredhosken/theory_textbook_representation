@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2026 Fred Hosken
+Copyright (c) 2026 [Author Name]
+
+This license applies to the source code in this repository (.py and .R
+files). The data files in the data/ directory are licensed separately
+under CC BY 4.0; see LICENSE-DATA.md.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

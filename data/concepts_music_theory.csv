@@ -1,0 +1,249 @@
+concept,patterns,auto_generated
+secondary dominant,secondary dominant|V/V|applied dominant|applied chord|applied chord[s]?|applied dominant|applied leading,0
+secondary leading-tone chord,secondary leading[- ]tone|applied leading[- ]tone|secondary leading tone,0
+modal mixture,modal mixture|mixture chord|borrowed chord|change of mode|borrowed chord[s]?|borrowing|mode mixture|borrowed[ -]chord[s]?,0
+augmented sixth chord,augmented sixth|Italian sixth|German sixth|French sixth|\bIt6\b|\bGer\+6\b|\bFr\+6\b|german[ -]sixth[s]?|french[ -]sixth[s]?|italian[ -]sixth[s]?,0
+Neapolitan chord,Neapolitan|\bN6\b|flat[- ]II|Neapolitan sixth,0
+binary form,binary form|two[- ]part form|\bAB form\b|two-part \(binary\),0
+rounded binary form,rounded binary|incipient three[- ]part form|rounded[ -]binary[s]?,0
+ternary form,ternary form|three[- ]part form|\bABA\b|three-part \(ternary\),0
+expanded ternary form,expanded ternary,0
+bar form,\bbar form\b|\bStollen\b|\bAbgesang\b|Meistersinger|Minnesinger,0
+sonata form,sonata form|sonata[- ]allegro,0
+rondo,\brondo\b|rondo form|seven[- ]part rondo|five[- ]part rondo|sonata[- ]rondo,0
+da capo aria,da capo aria|vocal form|verse[- ]chorus|strophic|through[- ]composed,0
+chorus form,chorus form|quarternary form,0
+voice leading,voice leading|part writing|part[- ]writing|stylistic practices|part[- ]writing|voice leading|SATB|four[- ]voice|chorale style,0
+species counterpoint,species counterpoint|first species|second species|third species|fourth species|fifth species|florid counterpoint|cantus firmus|nota cambiata,0
+authentic cadence,authentic cadence|\bPAC\b|\bIAC\b|perfect authentic cadence|imperfect authentic cadence|decorated authentic cadence,0
+half cadence,half cadence|Phrygian half cadence|\bHC\b,0
+deceptive cadence,deceptive cadence,0
+plagal cadence,plagal cadence,0
+cadence,\bcadence\b|\bcadential\b|harmonic cadence|rhythmic cadence|drum cadence|melodic cadence,0
+dominant seventh chord,dominant seventh chord|\bV7\b|major[- ]minor seventh chord|primary dominant|dominant seventh|dominant 7th|\bV7\b,0
+leading-tone seventh chord,leading[- ]tone seventh chord|fully diminished seventh chord|half[- ]diminished seventh chord|diminished[- ]diminished seventh|diminished[- ]minor seventh,0
+nondominant seventh chord,nondominant seventh chord|non[- ]dominant seventh|major[- ]major seventh chord|minor[- ]minor seventh chord|diatonic seventh chord[s]?,0
+augmented triad,augmented triad|\baug\b(?= triad| chord),0
+diminished triad,diminished triad,0
+modulation,\bmodulation\b|\bmodulates\b|common chord modulation|pivot chord modulation|chromatic modulation|direct modulation|phrase modulation|harmonizing melodies that modulate,0
+tonicization,toniciz|tonicised|tonicized|tonicized chord,0
+circle of fifths,circle of fifths|circle progression|circle progressions,0
+harmonic progression,harmonic progression|chord progression|ascending fifth progression|descending fifth progression|ascending fourth progression|descending fourth progression|ascending second progression|descending third progression|ascending augmented fourth,0
+period,\bperiod\b|antecedent[- ]consequent|parallel period|contrasting period|double period|three[- ]phrase period|four[- ]phrase period|nonperiod construction,0
+phrase,\bphrase\b|phrase member|phrase modulation|extended phrase|repeated phrase|dissimilar phrases,0
+antecedent phrase,antecedent phrase|antecedent[s]?,0
+consequent phrase,consequent phrase|consequent[s]?,0
+sequence,\bsequence\b|real sequence|tonal sequence|modulating sequence|false sequence|modified sequence|sequence segment,0
+motive,\bmotive\b|\bmotif\b|motivic|rhythmic motive|melodic motive,0
+texture,\btexture\b|chordal texture|homophonic|polyphonic|monophonic|homorhythmic|expanded monophonic|textural reduction|four[- ]voice texture,0
+nonharmonic tone,nonharmonic tone|non[- ]harmonic tone|passing tone|neighboring tone|accented passing tone|accented neighboring tone|escape tone|anticipation|\bappoggiatura\b|\bretardation\b|pedal tone|pedal point|changing tone|double neighboring tone|successive passing tone|inverted pedal tone|embellishing tone,0
+suspension,\bsuspension\b|suspended tone,0
+figured bass,figured[- ]bass|figured bass symbol|figured bass system|thoroughbass|basso continuo,0
+harmonic rhythm,harmonic rhythm,0
+Roman numeral analysis,Roman numeral|macro analysis|harmonic analysis|analysis symbol,0
+functional harmony,functional harmony|harmonic function|diatonic[ -]harmony[s]?,0
+major scale,major scale|major key,0
+minor scale,minor scale|harmonic minor|melodic minor|natural minor|harmonic form|melodic form|natural form|melodic minor( scale)?|harmonic minor( scale)?|natural minor( scale)?|natural[ -]minor[ -]scale[s]?|harmonic[ -]minor[ -]scale[s]?|melodic[ -]minor[ -]scale[s]?,0
+church modes,church mode|modal scale|Dorian mode|Phrygian mode|Lydian mode|Mixolydian mode|Aeolian mode|Locrian mode|Ionian mode|authentic mode|plagal mode|musica ficta,0
+pentatonic scale,pentatonic|gapped scale|nongapped pentatonic,0
+whole-tone scale,whole[- ]tone scale,0
+octatonic scale,octatonic|diminished scale,0
+blues scale,blues scale|blue note|\bblues\b,0
+chromaticism,chromaticism|chromatic harmony|chromatic scale|chromatic modulation,0
+transposition,\btransposition\b|\btranspose\b|tonal transposition|interval transposition|nontonal transposition|clef transposition,0
+intervals,\binterval\b|augmented interval|diminished interval|\btritone\b|perfect fifth|perfect fourth|compound interval|simple interval|harmonic interval|melodic interval|interval inversion|enharmonic interval|unison|enharmonic equivalents,0
+meter,\bmeter\b|\bmetre\b|time signature|meter signature|asymmetrical meter|compound meter|simple meter|duple meter|triple meter|quadruple meter|compound division|simple division,0
+syncopation,\bsyncopation\b|\bsyncopated\b,0
+rhythm,\brhythm\b|rhythmic cadence|rhythmic motive|rhythmic support|harmonic rhythm|divisive rhythm|additive rhythm|pulse|\bbeat\b,0
+jazz harmony,\bjazz\b|tritone substitution|four[- ]chord formula|blues progression|twelve[- ]bar blues|lead sheet|fake sheet|changes|jazz blues|jazz theory|jazz harmony|chord[- ]scale,0
+popular music,popular music|pop music|chord symbol|slash chord|popular music symbol,0
+imitation,\bimitation\b|\bimitative\b|\bcanon\b|\bcanonic\b,0
+parallel fifths and octaves,parallel (?:perfect )?fifth|parallel (?:perfect )?octave|consecutive fifth|consecutive octave|parallel unison|unequal fifth|parallel fifth[s]?|parallel 5th[s]?|parallel octave[s]?|parallel unison[s]?,0
+contrary motion,contrary motion,0
+oblique motion,oblique motion,0
+similar motion,similar motion,0
+stepwise motion,stepwise motion|conjunct motion|stepwise,0
+voice crossing,voice crossing|crossing voices,0
+voice spacing,voice spacing|close position|open position|octave doubling,0
+doubling,\bdoubling\b|doubled leading tone,0
+chorale,\bchorale\b|chorale phrase|chorale harmonization|chorale prelude,0
+harmonization,harmoniz|harmonizing a melody|harmonizing a chorale,0
+orchestration,orchestration|instrumentation|transposing instrument|nontransposing instrument|foreign names for instruments,0
+timbre,\btimbre\b|tone color|tone colour,0
+equal temperament,equal temperament|just intonation|Pythagorean tuning|mean[- ]tone temperament|unequal temperament,0
+Schenkerian analysis,Schenkerian|Schenker|Urlinie|Ursatz|prolongation,0
+set theory,set theory|pitch class set|normal form|prime form|interval class|interval vector,0
+twelve-tone,twelve[- ]tone|dodecaphony|tone row|twelve[- ]note|serial composition,0
+scale degrees,scale degree|tonic|dominant|subdominant|mediant|submediant|supertonic|leading tone|subtonic|scale degree[s]?|\b\^?\d[\u0302]?\b scale,0
+melodic structure,melodic structure|ascent|descent|climax tone|melodic cadence|melodic motive,0
+ostinato,\bostinato\b,0
+pedal point,pedal point|pedal tone|inverted pedal tone|pedal bass six[- ]four,0
+six-four chord,six[- ]four|cadential six[- ]four|arpeggiated bass six[- ]four|passing bass six[- ]four|pedal bass six[- ]four|stationary bass six[- ]four|cadential six[- ]four|cadential 6[- ]?4|cadential ⁶₄,0
+chord inversion,chord inversion|first inversion|second inversion|third inversion|triad inversion|root position|first[- ]inversion triad|second[- ]inversion triad,0
+interval,\binterval\b|\bintervals\b,1
+key signature,key signature[s]?,1
+triad,\btriad[s]?\b,1
+seventh chord,seventh chord[s]?|7th chord[s]?,1
+enharmonic,enharmonic( equivalent| spelling| respelling)?,1
+pitch,\bpitch\b(?!\s*class),1
+clef,\bclef[s]?\b|treble clef|bass clef|alto clef|tenor clef,1
+chromatic scale,chromatic scale[s]?,1
+counterpoint,\bcounterpoint\b|contrapuntal,1
+pitch class,pitch[- ]class(?:es)?(?!\s*set),1
+notation,\bnotation\b|staff notation|staff,1
+mode,\bmode[s]?\b|modal\b,1
+closely related keys,closely related key[s]?|close relation,1
+leading tone,leading[- ]tone(?!\s+seventh|\s+chord),1
+melody,\bmelod(?:y|ic|ies)\b,1
+lead-sheet symbols,lead[- ]sheet symbol[s]?|lead[- ]sheet notation|lead[- ]sheet,1
+minimalism,minimalis[mt]|minimalist,1
+texture analysis,texture[ -]analysis[s]?,1
+hemiola,\bhemiola[s]?\b,1
+time signature,time signature[s]?,1
+post-tonal,post[- ]tonal( music| theory)?|posttonal,1
+consonance and dissonance,consonance and dissonance|consonance|dissonance|consonance[s]?|dissonance[s]?,1
+beat,\bbeat[s]?\b|beat division|subdivision,1
+serialism,serialis[mt]|serial( music| technique)?,1
+indeterminacy,indetermina(?:cy|te)|aleatoric|chance music,1
+world music,world music|non[- ]western music,1
+phrase extension,phrase extension|phrase expansion|phrase modification,1
+parallel motion,parallel motion,1
+passing tone,passing tone[s]?|passing note[s]?,1
+heterophony,heterophon(?:y|ic),1
+oral tradition,oral tradition,1
+simple meter,simple meter|simple time|simple duple|simple triple|simple quadruple,1
+neighboring tone,neighbor(?:ing)? tone[s]?|neighbor note[s]?|neighboring chord,1
+pitch class set,pitch[- ]class set[s]?|\bpc set[s]?\b,1
+fugue,\bfugue[s]?\b|fugal|fughetta,1
+tritone,\btritone[s]?\b|tritone substitution,1
+compound meter,compound meter|compound time|compound duple|compound triple|compound quadruple,1
+whole step,whole[- ]step[s]?|whole[- ]tone step,1
+half step,half[- ]step[s]?|semitone[s]?,1
+appoggiatura,appoggiatura[s]?,1
+sentence,\bsentence\b(?:\s+structure)?|basic idea|presentation phrase,1
+normal form,normal form|normal order,1
+interval vector,interval vector,1
+t-operator,\bt[- ]?operator|transposition operator|\bT[nN]\b,1
+prime form,prime form,1
+new music,\bnew music\b|recent trends|recent music,1
+polyrhythm,polyrhythm[s]?|polyrhythmic|polymeter,1
+octave,\boctave[s]?\b,1
+resolution,\bresol(?:ution|ve[ds]?|ving)\b,1
+tone row,tone row[s]?|twelve[- ]tone row|note row|row form,1
+row operations,row operation[s]?|row form[s]?|retrograde|prime form|inversion of the row,1
+ordered pitch class set,ordered pitch[- ]class set|ordered pc set|ordered set,1
+diatonic,\bdiatonic\b(?!\s+(?:seventh|interval|chord|sequence|root|pivot|harmony|modulation)),1
+escape tone,escape tone[s]?|\bechappee\b|\béchappée\b,1
+staff notation,staff[ -]notation[s]?,1
+tonic,\btonic\b(?!\s*ization)|tonic function,1
+anticipation,anticipation[s]?,1
+compound interval,compound interval[s]?,1
+text painting,text painting|word painting|word[- ]painting|word[ -]painting[s]?,1
+form,\bform\b(?!\s*(?:al|ula|at))|musical form|musical[ -]form[s]?,1
+slur,\bslur[s]?\b,1
+tie,\btie[s]?\b|tied note[s]?,1
+relative key,relative key[s]?|relative major|relative minor,1
+interval class,interval class(?:es)?|\bic\b,1
+pivot chord,pivot chord[s]?|common[- ]chord modulation|diatonic pivot,1
+exposition,\bexposition\b,1
+recapitulation,recapitulation|recap\b,1
+development,\bdevelopment(?:al)?\b(?!\s+section\s+of\s+a\s+phrase),1
+homophonic texture,homophon(?:y|ic)( texture)?,1
+common-chord modulation,common[- ]chord modulation|diatonic (?:pivot|common)|pivot[- ]chord modulation,1
+circle progression,circle progression|circle[- ]of[- ]fifths sequence|descending fifth sequence|circular progression,1
+inversion,\binversion[s]?\b(?!\s+symbol),1
+diatonic interval,diatonic interval[s]?,1
+dominant,\bdominant\b(?!\s*(?:seventh|7|function|\d)),1
+parallel key,parallel key[s]?|parallel major|parallel minor,1
+pedal tone,pedal tone[s]?|pedal point|pedal six[- ]four|pedal \d,1
+chromatic mediant,chromatic mediant[s]?|mediant relationship[s]?,1
+recitative,recitativ[eo],1
+aria,\baria[s]?\b|da capo aria,1
+through-composed,through[ -]composed[s]?,1
+strophic,strophic[s]?,1
+concerto form,concerto form|ritornello,1
+parallel minor,parallel[ -]minor[s]?,1
+answer,answer[s]?,1
+stretto,\bstretto\b,1
+subject,\bsubject\b|fugue subject|answer\b|countersubject,1
+invention,\binvention[s]?\b,1
+invertible counterpoint,invertible counterpoint|double counterpoint|triple counterpoint,1
+episode,\bepisode[s]?\b,1
+polyphonic texture,polyphon(?:y|ic)( texture)?,1
+monophonic texture,monophon(?:y|ic)( texture)?,1
+triad quality,triad quality|major triad|minor triad|diminished triad|augmented triad,1
+subdominant,subdominant|\bIV\b chord|pre[- ]?dominant|predominant,1
+phrygian cadence,[Pp]hrygian (?:half )?cadence,1
+diatonic root progression,diatonic[ -]root[ -]progression[s]?,1
+hypermeter,hypermeter|hypermetric|hypermeasure,1
+phrase expansion,phrase[ -]expansion[s]?,1
+lead-sheet,lead[ -]sheet[s]?,1
+verse-chorus,verse[- ]chorus( form)?,1
+blues,\bblues\b|twelve[- ]bar blues|12[- ]bar blues,1
+twelve-bar blues,twelve[ -]bar[ -]blues[s]?,1
+chromatic harmony,chromatic harmony|chromatic chord[s]?|advanced harmony,1
+verse-chorus form,verse[ -]chorus[ -]form[s]?,1
+diatonic chords,diatonic[ -]chords[s]?,1
+chorale style,chorale[ -]style[s]?,1
+variation form,variation form|theme and variations|continuous variations|sectional variations|ground bass,1
+tonal structure,tonal[ -]structure[s]?,1
+diminished seventh chord,diminished seventh chord|fully[- ]diminished seventh|vii[\u00b0\u00f8]7|dim7,1
+descending fifth sequence,descending[ -]fifth[ -]sequence[s]?,1
+ascending sequence,ascending[ -]sequence[s]?,1
+linear intervallic pattern,linear intervallic pattern|\bLIP\b|intervallic pattern,1
+aleatoric music,aleatoric[ -]music[s]?,1
+form after 1945,form[ -]after[ -]1945,1
+non-western music,non[ -]western[ -]music[s]?,1
+predominant,pre[- ]?dominant( function| chord)?|predominant,1
+supertonic,supertonic|\bii\b chord|ii chord,1
+parallel major,parallel[ -]major[s]?,1
+mediant relationships,mediant[ -]relationships[s]?,1
+nonchord tone,non[- ]?chord tone[s]?|nonharmonic tone[s]?|embellishing tone[s]?,1
+hip-hop,hip[ -]hop[s]?,1
+sampling,sampling[s]?,1
+groove,groove[s]?,1
+ametric music,ametric[ -]music[s]?,1
+metric modulation,metric modulation|tempo modulation,1
+additive meter,additive meter|additive rhythm|ametric,1
+modernist rhythm,modernist[ -]rhythm[s]?,1
+enharmonic modulation,enharmonic modulation|enharmonic reinterpretation,1
+post-tonal music,post[ -]tonal[ -]music[s]?,1
+chromatic sequence,chromatic[ -]sequence[s]?,1
+chromatic voice leading,chromatic[ -]voice[ -]leading[s]?,1
+enharmonic reinterpretation,enharmonic[ -]reinterpretation[s]?,1
+accompanimental patterns,accompanimental[ -]patterns[s]?,1
+spectralism,spectralis[mt]|spectral music,1
+digital music,digital[ -]music[s]?,1
+recent trends,recent[ -]trends[s]?,1
+microtonality,microton(?:al|ality)|microtonal scale,1
+root position,root position,1
+diatonic sequences,diatonic[ -]sequences[s]?,1
+diminished seventh,diminished[ -]seventh[s]?,1
+half-diminished seventh,half[ -]diminished[ -]seventh[s]?,1
+voice-leading chord,voice[ -]leading[ -]chord[s]?,1
+diatonic sequence,diatonic[ -]sequence[s]?,1
+theme and variations,theme[ -]and[ -]variations[s]?,1
+sectional variations,sectional[ -]variations[s]?,1
+ground bass,ground[ -]bass[s]?,1
+continuous variations,continuous[ -]variations[s]?,1
+retardation,retardation[s]?,1
+seven-part rondo,seven[ -]part[ -]rondo[s]?,1
+sonata-rondo,sonata[ -]rondo[s]?,1
+five-part rondo,five[ -]part[ -]rondo[s]?,1
+large ternary form,large[ -]ternary[ -]form[s]?,1
+lead-sheet notation,lead[ -]sheet[ -]notation[s]?,1
+first inversion,first inversion|\b6\b chord|figured 6,1
+second inversion,second inversion|six[- ]four|6[- ]?4 chord,1
+major key,major[ -]key[s]?,1
+popular music symbols,popular[ -]music[ -]symbols[s]?,1
+minor key,minor[ -]key[s]?,1
+pre-dominant function,pre[ -]dominant[ -]function[s]?,1
+harmonic function,harmonic function|tonic function|dominant function|pre[- ]?dominant function,1
+changing tone,changing[ -]tone[s]?,1
+atonality,atonal(?:ity)?|free atonal,1
+melodic line,melodic[ -]line[s]?,1
+phrygian mode,[Pp]hrygian mode,1
+parallel sixth chords,parallel[ -]sixth[ -]chords[s]?,1
+quadruple,quadruple[s]?,1
+duple,duple[s]?,1
+triple,triple[s]?,1

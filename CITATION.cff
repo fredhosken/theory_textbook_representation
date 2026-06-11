@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the accompanying article."
+title: "Counted But Not Centered: Demographic Diversity and Framing in Post-2020 Music Theory Textbooks"
+type: software
+authors:
+  - family-names: "Hosken"
+    given-names: "Fred"
+    affiliation: "Butler University"
+    orcid: "https://orcid.org/0000-0001-8917-5496"
+license: MIT
+repository-code: "https://github.com/fredhosken/theory_textbook_representation"
+preferred-citation:
+  type: article
+  title: "Counted But Not Centered: Demographic Diversity and Framing in Post-2020 Music Theory Textbooks"
+  authors:
+    - family-names: "Hosken"
+      given-names: "Fred"
+  journal: "Journal of Music Theory Pedagogy"
+  year: 2027

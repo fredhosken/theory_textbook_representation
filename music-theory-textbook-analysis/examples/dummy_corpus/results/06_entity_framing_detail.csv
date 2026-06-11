@@ -1,0 +1,57 @@
+book_id,passage_id,composer_canonical,passage_role,framing_category,framing_confidence,dominant,marginalized,is_bipoc
+example_tonal_2024,1,Johannes Brahms,central,normative,0.899,True,False,False
+example_tonal_2024,1,Franz Schubert,central,normative,0.881,True,False,False
+example_tonal_2024,2,Johannes Brahms,supplementary,normative,0.706,True,False,False
+example_tonal_2024,2,Ludwig van Beethoven,supplementary,normative,0.883,True,False,False
+example_tonal_2024,3,Johann Sebastian Bach,application,exceptional,0.829,True,False,False
+example_tonal_2024,3,Johannes Brahms,application,normative,0.655,True,False,False
+example_tonal_2024,4,Johann Sebastian Bach,central,normative,0.667,True,False,False
+example_tonal_2024,4,Franz Schubert,central,normative,0.611,True,False,False
+example_tonal_2024,5,Johannes Brahms,supplementary,normative,0.895,True,False,False
+example_tonal_2024,5,Wolfgang Amadeus Mozart,supplementary,normative,0.824,True,False,False
+example_tonal_2024,6,Joseph Bologne,application,additive,0.76,False,True,True
+example_tonal_2024,6,Florence Price,application,additive,0.949,False,True,True
+example_tonal_2024,7,Florence Price,central,additive,0.68,False,True,True
+example_tonal_2024,7,Amy Beach,central,additive,0.625,False,True,False
+example_tonal_2024,8,Florence Price,supplementary,normative,0.702,False,True,True
+example_tonal_2024,8,Joseph Bologne,supplementary,normative,0.606,False,True,True
+example_tonal_2024,9,Florence Price,application,normative,0.919,False,True,True
+example_tonal_2024,9,Clara Schumann,application,additive,0.943,False,True,False
+example_tonal_2024,10,Joseph Bologne,central,normative,0.82,False,True,True
+example_tonal_2024,10,Robert Nathaniel Dett,central,exceptional,0.694,False,True,True
+example_tonal_2024,11,Florence Price,supplementary,additive,0.937,False,True,True
+example_tonal_2024,11,Amy Beach,supplementary,exceptional,0.641,False,True,False
+example_tonal_2024,12,Ludwig van Beethoven,application,normative,0.763,True,False,False
+example_tonal_2024,12,Florence Price,application,additive,0.839,False,True,True
+example_tonal_2024,13,Ludwig van Beethoven,central,normative,0.945,True,False,False
+example_tonal_2024,13,Joseph Bologne,central,exceptional,0.747,False,True,True
+example_tonal_2024,14,Johannes Brahms,supplementary,normative,0.947,True,False,False
+example_tonal_2024,14,Florence Price,supplementary,normative,0.903,False,True,True
+example_omt_2025,15,Franz Schubert,central,exceptional,0.607,True,False,False
+example_omt_2025,15,Wolfgang Amadeus Mozart,central,normative,0.949,True,False,False
+example_omt_2025,16,Franz Schubert,supplementary,normative,0.651,True,False,False
+example_omt_2025,16,Johann Sebastian Bach,supplementary,normative,0.603,True,False,False
+example_omt_2025,17,Franz Schubert,application,additive,0.735,True,False,False
+example_omt_2025,17,Wolfgang Amadeus Mozart,application,normative,0.673,True,False,False
+example_omt_2025,18,Ludwig van Beethoven,central,normative,0.73,True,False,False
+example_omt_2025,18,Johann Sebastian Bach,central,normative,0.936,True,False,False
+example_omt_2025,19,Johannes Brahms,supplementary,additive,0.664,True,False,False
+example_omt_2025,19,Ludwig van Beethoven,supplementary,normative,0.918,True,False,False
+example_omt_2025,20,Robert Nathaniel Dett,application,exceptional,0.655,False,True,True
+example_omt_2025,20,Clara Schumann,application,additive,0.794,False,True,False
+example_omt_2025,21,Joseph Bologne,central,additive,0.748,False,True,True
+example_omt_2025,21,Robert Nathaniel Dett,central,normative,0.614,False,True,True
+example_omt_2025,22,Amy Beach,supplementary,exceptional,0.737,False,True,False
+example_omt_2025,22,Clara Schumann,supplementary,additive,0.917,False,True,False
+example_omt_2025,23,Joseph Bologne,application,additive,0.925,False,True,True
+example_omt_2025,23,Amy Beach,application,corrective,0.644,False,True,False
+example_omt_2025,24,Joseph Bologne,central,additive,0.921,False,True,True
+example_omt_2025,24,Florence Price,central,normative,0.606,False,True,True
+example_omt_2025,25,Amy Beach,supplementary,additive,0.621,False,True,False
+example_omt_2025,25,Joseph Bologne,supplementary,normative,0.729,False,True,True
+example_omt_2025,26,Franz Schubert,application,normative,0.648,True,False,False
+example_omt_2025,26,Clara Schumann,application,additive,0.716,False,True,False
+example_omt_2025,27,Franz Schubert,central,exceptional,0.806,True,False,False
+example_omt_2025,27,Robert Nathaniel Dett,central,exceptional,0.766,False,True,True
+example_omt_2025,28,Wolfgang Amadeus Mozart,supplementary,exceptional,0.607,True,False,False
+example_omt_2025,28,Amy Beach,supplementary,additive,0.769,False,True,False

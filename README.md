@@ -22,22 +22,23 @@ and independently obtained copies of the textbooks, the study is reproducible.
 ## Repository layout
 
 ```
-analysis_server.py                  NLP analysis (TF-IDF, BGE embeddings, LLM framing classifier)
-build_db.py                         Assembles textrep.db from corpus + results
-framing_analysis.py                 Statistical analysis (chi-square, Fisher, BH-FDR)
-prepare_bio_csv.py                  Builds the composer demographic table (output already in data/)
-Textbook_Representation_Analysis.R  All figures (demographic audit + statistical-support plots)
-requirements.txt                    Python dependencies
+analysis_server.py                       NLP analysis (TF-IDF, BGE embeddings, LLM framing classifier)
+build_db.py                              Assembles textrep.db from corpus + results
+framing_analysis.py                      Statistical analysis (chi-square, Fisher, BH-FDR)
+prepare_bio_csv.py                       Builds the composer demographic table (output already in data/)
+Textbook_Representation_Analysis.R       All figures (demographic audit + statistical-support plots)
+Textbooks_Representation_Data_Report.pdf Summary data report
+requirements.txt                         Python dependencies
 data/
-  bio_data_processed.csv            Per-composer demographics and geography (~925 composers)
-  composers_pieces_index.xlsx       Composer–piece index across 20 textbook editions
-  composer_aliases.csv              Variant -> canonical composer-name mappings (106 rows)
-  unique_composers.csv              Composer vocabulary for the extraction scripts (945 names)
-  concepts_music_theory.csv         Concept -> regex-pattern vocabulary (248 concepts)
-examples/dummy_corpus/              Synthetic two-book corpus + synthetic results (see below)
-examples/extraction/                Two worked extraction examples (PDF and EPUB-Markdown)
-LICENSE                             MIT (code)
-LICENSE-DATA.md                     CC BY 4.0 (data)
+  bio_data_processed.csv                 Per-composer demographics and geography (~925 composers)
+  composers_pieces_index.xlsx            Composer–piece index across 20 textbook editions
+  composer_aliases.csv                   Variant -> canonical composer-name mappings (106 rows)
+  unique_composers.csv                   Composer vocabulary for the extraction scripts (945 names)
+  concepts_music_theory.csv              Concept -> regex-pattern vocabulary (248 concepts)
+examples/dummy_corpus/                   Synthetic two-book corpus + synthetic results (see below)
+examples/extraction/                     Two worked extraction examples (PDF and EPUB-Markdown)
+LICENSE                                  MIT (code)
+LICENSE-DATA.md                          CC BY 4.0 (data)
 ```
 
 ## Pipeline overview
